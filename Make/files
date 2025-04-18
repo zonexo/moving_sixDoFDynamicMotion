@@ -1,0 +1,2 @@
+moving_sixDoFDynamicMotion.C
+LIB = $(FOAM_USER_LIBBIN)/moving_sixDoFDynamicMotion
